@@ -7,6 +7,6 @@
 -- 11:33 PM (London)
 
 - Test 3:28 PM (Los Angeles)
-- ~12:34 AM (Berlin) ~
+- ~~12:34 AM (Berlin) ~~
 
 ## kvkw.xyz
