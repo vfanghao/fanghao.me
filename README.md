@@ -1,6 +1,6 @@
-# README.md
+# Fanghao's Blog
 
-## Fanghao's blog.
+## Test
 
 - Test 11:56 AM (Los Angeles)
   - ~~3:33 PM (Los Angeles)~~
