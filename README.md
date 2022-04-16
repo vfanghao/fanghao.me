@@ -8,7 +8,7 @@
 - Test 3:28 PM (Los Angeles)
 - ~~12:34 AM (Berlin)~~
 
-# kvkw.xyz
+# fanghao.me
 
 - 3:49 PM (Los Angeles)
   - 6:50 AM (Linyi)
