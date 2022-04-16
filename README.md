@@ -1,4 +1,4 @@
-# Test
+# Loading
 
 - Test 11:56 AM (Los Angeles)
   - ~~3:33 PM (Los Angeles)~~
@@ -8,7 +8,7 @@
 - Test 3:28 PM (Los Angeles)
 - ~~12:34 AM (Berlin)~~
 
-# kvkw.xyz
+# Loading
 
 - 3:49 PM (Los Angeles)
   - 6:50 AM (Linyi)
