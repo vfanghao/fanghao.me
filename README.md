@@ -1,5 +1,3 @@
-# Welcome to My Blog
-
 # Test
 
 - Test 11:56 AM (Los Angeles)
