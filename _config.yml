@@ -47,7 +47,7 @@ resume_section_interests:       true
 resume_social_links:
   resume_github_url:            "https://github.com/vfanghao"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          ""
+  resume_linkedin_url:          "https://www.linkedin.com/in/vfanghao/"
   # resume_instagram_url:         "insert your Instagram URL here"
 resume_print_social_links:      true
 
