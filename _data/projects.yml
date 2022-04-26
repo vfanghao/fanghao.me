@@ -1,12 +1,12 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# Campus Host Competition
+- project: Campus Host Competition
+  role: Technical Guidance & Post Production
+  duration: Dec, 2018
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Selection of announcers and hosts for the school radio station.
 
 # Springfield Community Outreach Group
 - project: Springfield Community Outreach Group
