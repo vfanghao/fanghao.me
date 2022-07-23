@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar:                  "false"
 resume_name:                    "Fanghao Wei"
 resume_title:                   "Learner"
 
@@ -17,11 +17,11 @@ resume_title:                   "Learner"
 resume_contact_email:           "i@fanghao.me"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "+12122561984"
+resume_contact_telephone:       "+1XXXXXXXXXX"
 
 
 
-resume_header_intro: "<p>Hi there, I'm an English major about to graduate and currently trying to learn 🇩🇪German! I speak 🇨🇳Mandarin, 🇬🇧English, 🇯🇵Japanese, and a little bit of 🇩🇪German.</p>"
+resume_header_intro: "<p>An English major.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
